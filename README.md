@@ -88,10 +88,10 @@
 
 ## 开发
         # 克隆项目
-        git clone https://github.com/QJC1123/tuan-admin-ui
+        git clone https://github.com/QJC1123/tuan-control-center
 
         # 进入项目目录
-        cd tuan-wx-ui
+        cd tuan-control-center
 
         # 安装依赖
         npm install
